@@ -135,9 +135,9 @@
     <profiles>
         <profile>
             <id>test</id>
-            <activation>
+<!--             <activation>
                 <activeByDefault>true</activeByDefault>
-            </activation>
+            </activation> -->
             <properties>
                 <org>kukilbora-eval</org>
                 <apigee.org>kukilbora-eval</apigee.org>
@@ -147,9 +147,9 @@
         </profile>
         <profile>
             <id>prod</id>
-            <activation>
+<!--             <activation>
                 <activeByDefault>true</activeByDefault>
-            </activation>
+            </activation> -->
             <properties>
                 <org>kukilbora-eval</org>
                 <apigee.org>kukilbora-eval</apigee.org>
